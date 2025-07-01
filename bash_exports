@@ -1,0 +1,8 @@
+alias cp="cp -i"
+alias df="df -h"
+alias ls="ls --color=auto -Glk --group-directories-first"
+alias grep='grep --color=auto'
+alias ipython='ipython --TerminalInteractiveShell.editing_mode="vi"'
+alias mamba="micromamba"
+
+export LSCOLORS='Exfxcxcxbxegedabagacad'
